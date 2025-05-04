@@ -11,3 +11,5 @@ Financial Research 2. Server part. Финансовое исследование
 4. Большая генеративная модель Llama-3.1-8b: https://hf.qhduan.com/pek111/Meta-Llama-3.1-8B-Instruct-GGUF
 
 Вскоре выложу код, задействованный для обучения нейронных сетей
+
+Команда для запуска серверной части в локальной сети: uvicorn D2:app --reload
